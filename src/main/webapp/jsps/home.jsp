@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>Trabotics Consult Limited- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
+<h1 align="center">Welcome to Trabotics Consult Limited.</h1>
+<h2 align="center"> We are Intraday traders with well developed strategies for daily profits.
+	Trabotics uses automated copy trading systems to assist customers who can't trade. 
+	We average $3 daily on every $100 deposit. Registration fee is $30. An auto disconnect loss limit of 50%.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
@@ -20,10 +20,10 @@
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Trabotics Consult Limited, 
+		Shetuko Layout, Kuje, Abuja
+		+2348088850969
+		trabotics@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
@@ -32,7 +32,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
+<p align=center>Trabotics Consult Limited</p>
 <p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
 
 </body>
