@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Trabotics Consult Releases Nexus Repository</name>
-	      <url> http://172.31.18.29:8081/repository/ebay-bts-releases/</url>
+	      <url> http://54.91.50.39:8181/landmark/repository/tesla2-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Trabotics Consult Snapshot Nexus Repository </name>
-	      <url>http://172.31.18.29:8081/repository/ebay-bts-snapshot/</url>
+	      <url>http://54.91.50.39:8181/landmark/repository/tesla2-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
