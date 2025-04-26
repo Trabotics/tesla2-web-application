@@ -14,7 +14,8 @@
 	Trabotics uses automated copy trading systems to assist customers who can't trade. 
 	We average $3 daily on every $100 deposit. Registration fee is $30. An auto disconnect loss limit of 50%.
 	
-        The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+        The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY
+        Queen Dosh has a wealthy Husband </h2>
 <hr>
 <div style="text-align: center;">
 	<span>
