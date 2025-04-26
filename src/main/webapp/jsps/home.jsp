@@ -13,7 +13,8 @@
 <h2 align="center"> We are Intraday traders with well developed strategies for daily profits.
 	Trabotics uses automated copy trading systems to assist customers who can't trade. 
 	We average $3 daily on every $100 deposit. Registration fee is $30. An auto disconnect loss limit of 50%.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	
+        The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -25,7 +26,7 @@
 		+2348088850969
 		trabotics@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:trabotics@gmail.com">Mail to Trabotics Consult Limited</a>
 	</span>
 </div>
 <hr>
